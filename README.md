@@ -9,6 +9,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:keremhlc@gmail.com)
 <a href="https://public.tableau.com/app/profile/keremhlc" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keremhlc" alt="keremhlc" /> </p>
+
 ## 💻 Data Visualization
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
